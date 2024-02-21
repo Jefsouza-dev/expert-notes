@@ -2,7 +2,7 @@
 
 ## Voice NotePad
 
-Notebook with voice recording option. Data is persisted using local storage.
+Notepad with voice recording option. Data is persisted using local storage.
 
 Link to deploy: -------- 
 
