@@ -4,7 +4,7 @@
 
 Notepad with voice recording option. Data is persisted using local storage.
 
-Link to deploy: -------- 
+Link to deploy: https://expert-notes-nine.vercel.app/
 
 
 
