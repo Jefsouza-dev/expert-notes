@@ -1,4 +1,3 @@
-import logo from "./assets/logo-nlw-expert.svg";
 import { NoteCard } from "./components/note-card";
 import { NewNoteCard } from "./components/new-note-card";
 import { ChangeEvent, useState } from "react";
@@ -58,8 +57,6 @@ export function App() {
 
   return (
     <div className="mx-auto max-w-6xl my-12 space-y-6 px-5">
-      <img src={logo} alt="logo" />
-
       <form className="w-full">
         <input
           className="w-full bg-transparent text-3xl font-semibold tracking-tight outline-none placeholder:text-slate-500"
